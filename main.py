@@ -6,4 +6,8 @@ b = 10
 a, b = b, a
 
 print(f"a = {a}, b = {b}")
+print(f"a = {a}, b = {b}")
+print(f"a = {t}, b = {b}")
+print(f"a = {a}, b = {b}")
+print(f"a = {a}, b = {b}")
 # Output: a = 10, b = 5
